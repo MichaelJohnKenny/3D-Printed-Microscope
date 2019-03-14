@@ -1,0 +1,3 @@
+Double click "Installation.sh", then click execute. Do this before launching the camera controls to ensure that the required libraries are installed.
+
+To launch the camera controls, double click on "Launch Camera Controls.sh" and click execute.
